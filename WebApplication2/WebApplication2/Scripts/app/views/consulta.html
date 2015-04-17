@@ -1,0 +1,20 @@
+﻿<h1>Consulta</h1>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table">
+            <tr>
+                <th>Código</th>
+                <th>Nome</th>
+            </tr>
+            <tr data-ng-repeat="pessoa in pessoas">
+                <td ng-bind="pessoa.Codigo"></td>
+                <td ng-bind="pessoa.Nome"></td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-md-12">
+        <button class="btn btn-default" data-ng-click="refresh()">
+            <span class="glyphicon glyphicon-refresh"></span>
+        </button>
+    </div>
+</div>
