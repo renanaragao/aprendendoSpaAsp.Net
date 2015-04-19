@@ -24,3 +24,37 @@ c:\users\renan.aragao.alfa\documents\visual studio 2013\Projects\WebApplication2
 c:\users\renan.aragao.alfa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
 c:\users\renan.aragao.alfa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 c:\users\renan.aragao.alfa\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Jil.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Sigil.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Jil.pdb
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Jil.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Sigil.pdb
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Sigil.xml
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Ionic.Zip.dll
+C:\Users\renan.aragao\Documents\aprendendoSpa\aprendendoSpaAsp.Net\WebApplication2\WebApplication2\bin\Ionic.Zip.xml

@@ -7,14 +7,14 @@
 
         $routeProvider
             .when('/home', {
-                templateUrl: '/Scripts/app/views/home.html'
+                templateUrl: '/dashboard/Scripts/app/views/home.html'
             })
             .when('/cadastro', {
-                templateUrl: '/Scripts/app/views/cadastro.html',
+                templateUrl: '/dashboard/Scripts/app/views/cadastro.html',
                 controller: 'pessoaCadastroController as vm'
             })
             .when('/consulta', {
-                templateUrl: '/Scripts/app/views/consulta.html',
+                templateUrl: '/dashboard/Scripts/app/views/consulta.html',
                 controller: 'pessoaConsultaController as vm'
             })
             .otherwise({
